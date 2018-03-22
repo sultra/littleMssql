@@ -2,7 +2,7 @@
   "name": "littlemssql",
   "version": "0.1.0",
   "description": "mssql 连接查询封装",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
