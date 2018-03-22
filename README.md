@@ -1,7 +1,7 @@
 # Little MS-Sql
 
 ## 说明
-对操作mssql小心的封装
+对操作mssql小小的封装
 
 ## 使用
 
