@@ -1,0 +1,17 @@
+{
+  "name": "littlemssql",
+  "version": "0.1.0",
+  "description": "mssql 连接查询封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mssql"
+  ],
+  "dependencies": {
+    "mssql": "^4.1.0"
+  },
+  "author": "zly",
+  "license": "ISC"
+}
