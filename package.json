@@ -1,6 +1,6 @@
 {
   "name": "littlemssql",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "mssql 连接查询封装",
   "main": "lib/index.js",
   "scripts": {
